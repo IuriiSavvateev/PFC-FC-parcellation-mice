@@ -1,1 +1,2 @@
 /Clustering/Data/001_FIXed_QBI.nii.gz filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
