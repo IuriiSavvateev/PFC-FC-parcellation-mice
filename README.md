@@ -1,4 +1,4 @@
-Current Github repository supports [100-mice database](10.5281/zenodo.14989998). Files Complete_overview.txt and Truncdated_overview_codes.txt describe folder trees for the whole repository and codes respectively.
+Current Github repository supports [100-mice database](https://zenodo.org/records/14989998). Files Complete_overview.txt and Truncdated_overview_codes.txt describe folder trees for the whole repository and codes respectively.
 
 The repository includes three folders 
 
