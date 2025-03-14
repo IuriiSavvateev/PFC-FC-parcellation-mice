@@ -1,0 +1,248 @@
+D:\Parcellation\Github/
+├── Cluster_perturbation_analysis/
+│   ├── Analysis_GFP_masked/
+│   │   ├── timeseries/
+│   │   │   ├── 1/
+│   │   │   │   ├── 180719a_2.txt
+│   │   │   │   ├── 180719b_2.txt
+│   │   │   │   ├── 180719d_2.txt
+│   │   │   │   ├── 180720d_2.txt
+│   │   │   │   ├── 180723a_2.txt
+│   │   │   │   ├── 180723b_2.txt
+│   │   │   │   ├── 180724b_2.txt
+│   │   │   │   ├── 180725b_2.txt
+│   │   │   │   ├── 180725c_2.txt
+│   │   │   │   ├── 180726a_2.txt
+│   │   │   │   ├── 180726d_2.txt
+│   │   │   │   ├── 180727a_2.txt
+│   │   │   │   ├── 180730d_2.txt
+│   │   │   │   ├── 180731a_2.txt
+│   │   │   │   ├── 180731b_2.txt
+│   │   │   │   ├── 180731c_2.txt
+│   │   │   │   ├── 180801a_2.txt
+│   │   │   │   ├── 180802a_2.txt
+│   │   │   │   └── 180802b_2.txt
+│   │   │   ├── 2/
+│   │   │   │   ├── 180719a_4.txt
+│   │   │   │   ├── 180719b_4.txt
+│   │   │   │   ├── 180719d_4.txt
+│   │   │   │   ├── 180720d_4.txt
+│   │   │   │   ├── 180723a_4.txt
+│   │   │   │   ├── 180723b_4.txt
+│   │   │   │   ├── 180724b_4.txt
+│   │   │   │   ├── 180725b_4.txt
+│   │   │   │   ├── 180725c_4.txt
+│   │   │   │   ├── 180726a_4.txt
+│   │   │   │   ├── 180726d_4.txt
+│   │   │   │   ├── 180727a_4.txt
+│   │   │   │   ├── 180730d_4.txt
+│   │   │   │   ├── 180731a_4.txt
+│   │   │   │   ├── 180731b_4.txt
+│   │   │   │   ├── 180731c_4.txt
+│   │   │   │   ├── 180801a_4.txt
+│   │   │   │   ├── 180802a_4.txt
+│   │   │   │   └── 180802b_4.txt
+│   │   │   ├── 3/
+│   │   │   │   ├── 180719a_1.txt
+│   │   │   │   ├── 180719b_1.txt
+│   │   │   │   ├── 180719d_1.txt
+│   │   │   │   ├── 180720d_1.txt
+│   │   │   │   ├── 180723a_1.txt
+│   │   │   │   ├── 180723b_1.txt
+│   │   │   │   ├── 180724b_1.txt
+│   │   │   │   ├── 180725b_1.txt
+│   │   │   │   ├── 180725c_1.txt
+│   │   │   │   ├── 180726a_1.txt
+│   │   │   │   ├── 180726d_1.txt
+│   │   │   │   ├── 180727a_1.txt
+│   │   │   │   ├── 180730d_1.txt
+│   │   │   │   ├── 180731a_1.txt
+│   │   │   │   ├── 180731b_1.txt
+│   │   │   │   ├── 180731c_1.txt
+│   │   │   │   ├── 180801a_1.txt
+│   │   │   │   ├── 180802a_1.txt
+│   │   │   │   └── 180802b_1.txt
+│   │   │   └── 4/
+│   │   │       ├── 180719a_3.txt
+│   │   │       ├── 180719b_3.txt
+│   │   │       ├── 180719d_3.txt
+│   │   │       ├── 180720d_3.txt
+│   │   │       ├── 180723a_3.txt
+│   │   │       ├── 180723b_3.txt
+│   │   │       ├── 180724b_3.txt
+│   │   │       ├── 180725b_3.txt
+│   │   │       ├── 180725c_3.txt
+│   │   │       ├── 180726a_3.txt
+│   │   │       ├── 180726d_3.txt
+│   │   │       ├── 180727a_3.txt
+│   │   │       ├── 180730d_3.txt
+│   │   │       ├── 180731a_3.txt
+│   │   │       ├── 180731b_3.txt
+│   │   │       ├── 180731c_3.txt
+│   │   │       ├── 180801a_3.txt
+│   │   │       ├── 180802a_3.txt
+│   │   │       └── 180802b_3.txt
+│   │   └── zstats/
+│   │       ├── 1/
+│   │       ├── 2/
+│   │       ├── 3/
+│   │       └── 4/
+│   ├── Analysis_Gi_masked/
+│   │   ├── timeseries/
+│   │   │   ├── 1/
+│   │   │   │   ├── 180719c_2.txt
+│   │   │   │   ├── 180720a_2.txt
+│   │   │   │   ├── 180720c_2.txt
+│   │   │   │   ├── 180723c_2.txt
+│   │   │   │   ├── 180724a_2.txt
+│   │   │   │   ├── 180724c_2.txt
+│   │   │   │   ├── 180724d_2.txt
+│   │   │   │   ├── 180725a_2.txt
+│   │   │   │   ├── 180726b_2.txt
+│   │   │   │   ├── 180727c_2.txt
+│   │   │   │   ├── 180727d_2.txt
+│   │   │   │   ├── 180730b_2.txt
+│   │   │   │   ├── 180730c_2.txt
+│   │   │   │   ├── 180731d_2.txt
+│   │   │   │   └── 180801b_2.txt
+│   │   │   ├── 2/
+│   │   │   │   ├── 180719c_4.txt
+│   │   │   │   ├── 180720a_4.txt
+│   │   │   │   ├── 180720c_4.txt
+│   │   │   │   ├── 180723c_4.txt
+│   │   │   │   ├── 180724a_4.txt
+│   │   │   │   ├── 180724c_4.txt
+│   │   │   │   ├── 180724d_4.txt
+│   │   │   │   ├── 180725a_4.txt
+│   │   │   │   ├── 180726b_4.txt
+│   │   │   │   ├── 180727c_4.txt
+│   │   │   │   ├── 180727d_4.txt
+│   │   │   │   ├── 180730b_4.txt
+│   │   │   │   ├── 180730c_4.txt
+│   │   │   │   ├── 180731d_4.txt
+│   │   │   │   └── 180801b_4.txt
+│   │   │   ├── 3/
+│   │   │   │   ├── 180719c_1.txt
+│   │   │   │   ├── 180720a_1.txt
+│   │   │   │   ├── 180720c_1.txt
+│   │   │   │   ├── 180723c_1.txt
+│   │   │   │   ├── 180724a_1.txt
+│   │   │   │   ├── 180724c_1.txt
+│   │   │   │   ├── 180724d_1.txt
+│   │   │   │   ├── 180725a_1.txt
+│   │   │   │   ├── 180726b_1.txt
+│   │   │   │   ├── 180727c_1.txt
+│   │   │   │   ├── 180727d_1.txt
+│   │   │   │   ├── 180730b_1.txt
+│   │   │   │   ├── 180730c_1.txt
+│   │   │   │   ├── 180731d_1.txt
+│   │   │   │   └── 180801b_1.txt
+│   │   │   └── 4/
+│   │   │       ├── 180719c_3.txt
+│   │   │       ├── 180720a_3.txt
+│   │   │       ├── 180720c_3.txt
+│   │   │       ├── 180723c_3.txt
+│   │   │       ├── 180724a_3.txt
+│   │   │       ├── 180724c_3.txt
+│   │   │       ├── 180724d_3.txt
+│   │   │       ├── 180725a_3.txt
+│   │   │       ├── 180726b_3.txt
+│   │   │       ├── 180727c_3.txt
+│   │   │       ├── 180727d_3.txt
+│   │   │       ├── 180730b_3.txt
+│   │   │       ├── 180730c_3.txt
+│   │   │       ├── 180731d_3.txt
+│   │   │       └── 180801b_3.txt
+│   │   └── zstats/
+│   │       ├── 1/
+│   │       ├── 2/
+│   │       ├── 3/
+│   │       └── 4/
+│   ├── Brain_mask/
+│   ├── Cluster_statistics/
+│   ├── Matrices/
+│   ├── README_cluster_perturbation_analysis.txt
+│   ├── Template/
+│   ├── Zmaps_comparison/
+│   │   ├── Plots/
+│   ├── __pycache__/
+│   ├── clusters_comparison_per_region.py
+│   ├── clusters_individual_statistics.py
+│   ├── diagram_plot.py
+│   ├── matrices_plot.py
+│   ├── parcellation_module_ts_ss.py
+│   ├── zmaps_calculation.py
+│   ├── zmaps_compute.sh
+├── Clustering/
+│   ├── Anatomy/
+│   │   ├── 2_solution/
+│   │   ├── 3_solution/
+│   │   ├── 4_solution/
+│   │   ├── 5_solution/
+│   │   ├── 6_solution/
+│   │   └── 7_solution/
+│   ├── Clusters_Nifti/
+│   │   ├── all_conditions_manuscript/
+│   │   │   ├── Hierarchical/
+│   │   │   │   ├── pfc-all_100_Hierarchical/
+│   │   │   │   └── pfc-pfc_100_Hierarchical/
+│   │   │   ├── gmm/
+│   │   │   │   ├── pfc-all_100_gmm/
+│   │   │   │   └── pfc-pfc_100_gmm/
+│   │   │   └── kmeans/
+│   │   │       ├── pfc-all_100_kmeans/
+│   │   │       ├── pfc-all_20_kmeans/
+│   │   │       ├── pfc-all_40_kmeans/
+│   │   │       ├── pfc-all_60_kmeans/
+│   │   │       ├── pfc-all_80_kmeans/
+│   │   │       ├── pfc-nopfc_100_kmeans/
+│   │   │       ├── pfc-nopfc_20_kmeans/
+│   │   │       ├── pfc-nopfc_40_kmeans/
+│   │   │       ├── pfc-nopfc_60_kmeans/
+│   │   │       ├── pfc-nopfc_80_kmeans/
+│   │   │       ├── pfc-pfc_100_kmeans/
+│   │   │       ├── pfc-pfc_20_gmm/
+│   │   │       ├── pfc-pfc_20_kmeans/
+│   │   │       ├── pfc-pfc_40_kmeans/
+│   │   │       ├── pfc-pfc_60_kmeans/
+│   │   │       └── pfc-pfc_80_kmeans/
+│   │   └── pfc-pfc_60_kmeans/
+│   ├── Correlation-matrix/
+│   ├── Data/
+│   ├── Euler_correlation_combined.py
+│   ├── Euler_correlation_combined.sh
+│   ├── Iteration/
+│   │   └── kmeans/
+│   │       ├── pfc-all/
+│   │       ├── pfc-nopfc/
+│   │       └── pfc-pfc/
+│   ├── Masks/
+│   ├── Mean_correlation_matrix/
+│   │   ├── pfc-all/
+│   │   └── pfc-pfc/
+│   ├── README-clustering.txt
+│   ├── TSNE_PCA/
+│   ├── TSNE_PCA_plots.py
+│   ├── __pycache__/
+│   ├── clusters_anatomy_methods.py
+│   ├── clusters_anatomy_plots.py
+│   ├── correlation_individual.py
+│   ├── correlation_individual.sh
+│   └── parcellation_module_load.py
+├── Complete_overview.txt
+├── Histological_evaluation/
+│   ├── README_Histological_evaluation.txt
+│   ├── statistical_analysis/
+│   │   ├── Cluster_1_data/
+│   │   ├── Cluster_2_data/
+│   │   ├── Cluster_3_data/
+│   │   ├── Cluster_4_data/
+│   │   ├── Statistics_loop.sh
+│   │   ├── Violin_plot.py
+│   └── visualization/
+│       ├── Combined_cluster_masks/
+│       ├── Individual_cluster_masks/
+│       ├── Reference_image/
+│       └── Summed_image/
+├── dir_tree.py
+└── dir_tree_codes.py

@@ -1,0 +1,739 @@
+D:\Parcellation\Github/
+├── Cluster_perturbation_analysis/
+│   ├── Analysis_GFP_masked/
+│   │   ├── timeseries/
+│   │   │   ├── 1/
+│   │   │   │   ├── 180719a_2.txt
+│   │   │   │   ├── 180719b_2.txt
+│   │   │   │   ├── 180719d_2.txt
+│   │   │   │   ├── 180720d_2.txt
+│   │   │   │   ├── 180723a_2.txt
+│   │   │   │   ├── 180723b_2.txt
+│   │   │   │   ├── 180724b_2.txt
+│   │   │   │   ├── 180725b_2.txt
+│   │   │   │   ├── 180725c_2.txt
+│   │   │   │   ├── 180726a_2.txt
+│   │   │   │   ├── 180726d_2.txt
+│   │   │   │   ├── 180727a_2.txt
+│   │   │   │   ├── 180730d_2.txt
+│   │   │   │   ├── 180731a_2.txt
+│   │   │   │   ├── 180731b_2.txt
+│   │   │   │   ├── 180731c_2.txt
+│   │   │   │   ├── 180801a_2.txt
+│   │   │   │   ├── 180802a_2.txt
+│   │   │   │   └── 180802b_2.txt
+│   │   │   ├── 2/
+│   │   │   │   ├── 180719a_4.txt
+│   │   │   │   ├── 180719b_4.txt
+│   │   │   │   ├── 180719d_4.txt
+│   │   │   │   ├── 180720d_4.txt
+│   │   │   │   ├── 180723a_4.txt
+│   │   │   │   ├── 180723b_4.txt
+│   │   │   │   ├── 180724b_4.txt
+│   │   │   │   ├── 180725b_4.txt
+│   │   │   │   ├── 180725c_4.txt
+│   │   │   │   ├── 180726a_4.txt
+│   │   │   │   ├── 180726d_4.txt
+│   │   │   │   ├── 180727a_4.txt
+│   │   │   │   ├── 180730d_4.txt
+│   │   │   │   ├── 180731a_4.txt
+│   │   │   │   ├── 180731b_4.txt
+│   │   │   │   ├── 180731c_4.txt
+│   │   │   │   ├── 180801a_4.txt
+│   │   │   │   ├── 180802a_4.txt
+│   │   │   │   └── 180802b_4.txt
+│   │   │   ├── 3/
+│   │   │   │   ├── 180719a_1.txt
+│   │   │   │   ├── 180719b_1.txt
+│   │   │   │   ├── 180719d_1.txt
+│   │   │   │   ├── 180720d_1.txt
+│   │   │   │   ├── 180723a_1.txt
+│   │   │   │   ├── 180723b_1.txt
+│   │   │   │   ├── 180724b_1.txt
+│   │   │   │   ├── 180725b_1.txt
+│   │   │   │   ├── 180725c_1.txt
+│   │   │   │   ├── 180726a_1.txt
+│   │   │   │   ├── 180726d_1.txt
+│   │   │   │   ├── 180727a_1.txt
+│   │   │   │   ├── 180730d_1.txt
+│   │   │   │   ├── 180731a_1.txt
+│   │   │   │   ├── 180731b_1.txt
+│   │   │   │   ├── 180731c_1.txt
+│   │   │   │   ├── 180801a_1.txt
+│   │   │   │   ├── 180802a_1.txt
+│   │   │   │   └── 180802b_1.txt
+│   │   │   └── 4/
+│   │   │       ├── 180719a_3.txt
+│   │   │       ├── 180719b_3.txt
+│   │   │       ├── 180719d_3.txt
+│   │   │       ├── 180720d_3.txt
+│   │   │       ├── 180723a_3.txt
+│   │   │       ├── 180723b_3.txt
+│   │   │       ├── 180724b_3.txt
+│   │   │       ├── 180725b_3.txt
+│   │   │       ├── 180725c_3.txt
+│   │   │       ├── 180726a_3.txt
+│   │   │       ├── 180726d_3.txt
+│   │   │       ├── 180727a_3.txt
+│   │   │       ├── 180730d_3.txt
+│   │   │       ├── 180731a_3.txt
+│   │   │       ├── 180731b_3.txt
+│   │   │       ├── 180731c_3.txt
+│   │   │       ├── 180801a_3.txt
+│   │   │       ├── 180802a_3.txt
+│   │   │       └── 180802b_3.txt
+│   │   └── zstats/
+│   │       ├── 1/
+│   │       │   ├── 180719a_1_z.nii.gz
+│   │       │   ├── 180719b_1_z.nii.gz
+│   │       │   ├── 180719d_1_z.nii.gz
+│   │       │   ├── 180720d_1_z.nii.gz
+│   │       │   ├── 180723a_1_z.nii.gz
+│   │       │   ├── 180723b_1_z.nii.gz
+│   │       │   ├── 180724b_1_z.nii.gz
+│   │       │   ├── 180725b_1_z.nii.gz
+│   │       │   ├── 180725c_1_z.nii.gz
+│   │       │   ├── 180726a_1_z.nii.gz
+│   │       │   ├── 180726d_1_z.nii.gz
+│   │       │   ├── 180727a_1_z.nii.gz
+│   │       │   ├── 180730d_1_z.nii.gz
+│   │       │   ├── 180731a_1_z.nii.gz
+│   │       │   ├── 180731b_1_z.nii.gz
+│   │       │   ├── 180731c_1_z.nii.gz
+│   │       │   ├── 180801a_1_z.nii.gz
+│   │       │   ├── 180802a_1_z.nii.gz
+│   │       │   └── 180802b_1_z.nii.gz
+│   │       ├── 2/
+│   │       │   ├── 180719a_2_z.nii.gz
+│   │       │   ├── 180719b_2_z.nii.gz
+│   │       │   ├── 180719d_2_z.nii.gz
+│   │       │   ├── 180720d_2_z.nii.gz
+│   │       │   ├── 180723a_2_z.nii.gz
+│   │       │   ├── 180723b_2_z.nii.gz
+│   │       │   ├── 180724b_2_z.nii.gz
+│   │       │   ├── 180725b_2_z.nii.gz
+│   │       │   ├── 180725c_2_z.nii.gz
+│   │       │   ├── 180726a_2_z.nii.gz
+│   │       │   ├── 180726d_2_z.nii.gz
+│   │       │   ├── 180727a_2_z.nii.gz
+│   │       │   ├── 180730d_2_z.nii.gz
+│   │       │   ├── 180731a_2_z.nii.gz
+│   │       │   ├── 180731b_2_z.nii.gz
+│   │       │   ├── 180731c_2_z.nii.gz
+│   │       │   ├── 180801a_2_z.nii.gz
+│   │       │   ├── 180802a_2_z.nii.gz
+│   │       │   └── 180802b_2_z.nii.gz
+│   │       ├── 3/
+│   │       │   ├── 180719a_3_z.nii.gz
+│   │       │   ├── 180719b_3_z.nii.gz
+│   │       │   ├── 180719d_3_z.nii.gz
+│   │       │   ├── 180720d_3_z.nii.gz
+│   │       │   ├── 180723a_3_z.nii.gz
+│   │       │   ├── 180723b_3_z.nii.gz
+│   │       │   ├── 180724b_3_z.nii.gz
+│   │       │   ├── 180725b_3_z.nii.gz
+│   │       │   ├── 180725c_3_z.nii.gz
+│   │       │   ├── 180726a_3_z.nii.gz
+│   │       │   ├── 180726d_3_z.nii.gz
+│   │       │   ├── 180727a_3_z.nii.gz
+│   │       │   ├── 180730d_3_z.nii.gz
+│   │       │   ├── 180731a_3_z.nii.gz
+│   │       │   ├── 180731b_3_z.nii.gz
+│   │       │   ├── 180731c_3_z.nii.gz
+│   │       │   ├── 180801a_3_z.nii.gz
+│   │       │   ├── 180802a_3_z.nii.gz
+│   │       │   └── 180802b_3_z.nii.gz
+│   │       └── 4/
+│   │           ├── 180719a_4_z.nii.gz
+│   │           ├── 180719b_4_z.nii.gz
+│   │           ├── 180719d_4_z.nii.gz
+│   │           ├── 180720d_4_z.nii.gz
+│   │           ├── 180723a_4_z.nii.gz
+│   │           ├── 180723b_4_z.nii.gz
+│   │           ├── 180724b_4_z.nii.gz
+│   │           ├── 180725b_4_z.nii.gz
+│   │           ├── 180725c_4_z.nii.gz
+│   │           ├── 180726a_4_z.nii.gz
+│   │           ├── 180726d_4_z.nii.gz
+│   │           ├── 180727a_4_z.nii.gz
+│   │           ├── 180730d_4_z.nii.gz
+│   │           ├── 180731a_4_z.nii.gz
+│   │           ├── 180731b_4_z.nii.gz
+│   │           ├── 180731c_4_z.nii.gz
+│   │           ├── 180801a_4_z.nii.gz
+│   │           ├── 180802a_4_z.nii.gz
+│   │           └── 180802b_4_z.nii.gz
+│   ├── Analysis_Gi_masked/
+│   │   ├── timeseries/
+│   │   │   ├── 1/
+│   │   │   │   ├── 180719c_2.txt
+│   │   │   │   ├── 180720a_2.txt
+│   │   │   │   ├── 180720c_2.txt
+│   │   │   │   ├── 180723c_2.txt
+│   │   │   │   ├── 180724a_2.txt
+│   │   │   │   ├── 180724c_2.txt
+│   │   │   │   ├── 180724d_2.txt
+│   │   │   │   ├── 180725a_2.txt
+│   │   │   │   ├── 180726b_2.txt
+│   │   │   │   ├── 180727c_2.txt
+│   │   │   │   ├── 180727d_2.txt
+│   │   │   │   ├── 180730b_2.txt
+│   │   │   │   ├── 180730c_2.txt
+│   │   │   │   ├── 180731d_2.txt
+│   │   │   │   └── 180801b_2.txt
+│   │   │   ├── 2/
+│   │   │   │   ├── 180719c_4.txt
+│   │   │   │   ├── 180720a_4.txt
+│   │   │   │   ├── 180720c_4.txt
+│   │   │   │   ├── 180723c_4.txt
+│   │   │   │   ├── 180724a_4.txt
+│   │   │   │   ├── 180724c_4.txt
+│   │   │   │   ├── 180724d_4.txt
+│   │   │   │   ├── 180725a_4.txt
+│   │   │   │   ├── 180726b_4.txt
+│   │   │   │   ├── 180727c_4.txt
+│   │   │   │   ├── 180727d_4.txt
+│   │   │   │   ├── 180730b_4.txt
+│   │   │   │   ├── 180730c_4.txt
+│   │   │   │   ├── 180731d_4.txt
+│   │   │   │   └── 180801b_4.txt
+│   │   │   ├── 3/
+│   │   │   │   ├── 180719c_1.txt
+│   │   │   │   ├── 180720a_1.txt
+│   │   │   │   ├── 180720c_1.txt
+│   │   │   │   ├── 180723c_1.txt
+│   │   │   │   ├── 180724a_1.txt
+│   │   │   │   ├── 180724c_1.txt
+│   │   │   │   ├── 180724d_1.txt
+│   │   │   │   ├── 180725a_1.txt
+│   │   │   │   ├── 180726b_1.txt
+│   │   │   │   ├── 180727c_1.txt
+│   │   │   │   ├── 180727d_1.txt
+│   │   │   │   ├── 180730b_1.txt
+│   │   │   │   ├── 180730c_1.txt
+│   │   │   │   ├── 180731d_1.txt
+│   │   │   │   └── 180801b_1.txt
+│   │   │   └── 4/
+│   │   │       ├── 180719c_3.txt
+│   │   │       ├── 180720a_3.txt
+│   │   │       ├── 180720c_3.txt
+│   │   │       ├── 180723c_3.txt
+│   │   │       ├── 180724a_3.txt
+│   │   │       ├── 180724c_3.txt
+│   │   │       ├── 180724d_3.txt
+│   │   │       ├── 180725a_3.txt
+│   │   │       ├── 180726b_3.txt
+│   │   │       ├── 180727c_3.txt
+│   │   │       ├── 180727d_3.txt
+│   │   │       ├── 180730b_3.txt
+│   │   │       ├── 180730c_3.txt
+│   │   │       ├── 180731d_3.txt
+│   │   │       └── 180801b_3.txt
+│   │   └── zstats/
+│   │       ├── 1/
+│   │       │   ├── 180719c_1_z.nii.gz
+│   │       │   ├── 180720a_1_z.nii.gz
+│   │       │   ├── 180720c_1_z.nii.gz
+│   │       │   ├── 180723c_1_z.nii.gz
+│   │       │   ├── 180724a_1_z.nii.gz
+│   │       │   ├── 180724c_1_z.nii.gz
+│   │       │   ├── 180724d_1_z.nii.gz
+│   │       │   ├── 180725a_1_z.nii.gz
+│   │       │   ├── 180726b_1_z.nii.gz
+│   │       │   ├── 180727c_1_z.nii.gz
+│   │       │   ├── 180727d_1_z.nii.gz
+│   │       │   ├── 180730b_1_z.nii.gz
+│   │       │   ├── 180730c_1_z.nii.gz
+│   │       │   ├── 180731d_1_z.nii.gz
+│   │       │   └── 180801b_1_z.nii.gz
+│   │       ├── 2/
+│   │       │   ├── 180719c_2_z.nii.gz
+│   │       │   ├── 180720a_2_z.nii.gz
+│   │       │   ├── 180720c_2_z.nii.gz
+│   │       │   ├── 180723c_2_z.nii.gz
+│   │       │   ├── 180724a_2_z.nii.gz
+│   │       │   ├── 180724c_2_z.nii.gz
+│   │       │   ├── 180724d_2_z.nii.gz
+│   │       │   ├── 180725a_2_z.nii.gz
+│   │       │   ├── 180726b_2_z.nii.gz
+│   │       │   ├── 180727c_2_z.nii.gz
+│   │       │   ├── 180727d_2_z.nii.gz
+│   │       │   ├── 180730b_2_z.nii.gz
+│   │       │   ├── 180730c_2_z.nii.gz
+│   │       │   ├── 180731d_2_z.nii.gz
+│   │       │   └── 180801b_2_z.nii.gz
+│   │       ├── 3/
+│   │       │   ├── 180719c_3_z.nii.gz
+│   │       │   ├── 180720a_3_z.nii.gz
+│   │       │   ├── 180720c_3_z.nii.gz
+│   │       │   ├── 180723c_3_z.nii.gz
+│   │       │   ├── 180724a_3_z.nii.gz
+│   │       │   ├── 180724c_3_z.nii.gz
+│   │       │   ├── 180724d_3_z.nii.gz
+│   │       │   ├── 180725a_3_z.nii.gz
+│   │       │   ├── 180726b_3_z.nii.gz
+│   │       │   ├── 180727c_3_z.nii.gz
+│   │       │   ├── 180727d_3_z.nii.gz
+│   │       │   ├── 180730b_3_z.nii.gz
+│   │       │   ├── 180730c_3_z.nii.gz
+│   │       │   ├── 180731d_3_z.nii.gz
+│   │       │   └── 180801b_3_z.nii.gz
+│   │       └── 4/
+│   │           ├── 180719c_4_z.nii.gz
+│   │           ├── 180720a_4_z.nii.gz
+│   │           ├── 180720c_4_z.nii.gz
+│   │           ├── 180723c_4_z.nii.gz
+│   │           ├── 180724a_4_z.nii.gz
+│   │           ├── 180724c_4_z.nii.gz
+│   │           ├── 180724d_4_z.nii.gz
+│   │           ├── 180725a_4_z.nii.gz
+│   │           ├── 180726b_4_z.nii.gz
+│   │           ├── 180727c_4_z.nii.gz
+│   │           ├── 180727d_4_z.nii.gz
+│   │           ├── 180730b_4_z.nii.gz
+│   │           ├── 180730c_4_z.nii.gz
+│   │           ├── 180731d_4_z.nii.gz
+│   │           └── 180801b_4_z.nii.gz
+│   ├── Brain_mask/
+│   │   ├── GOOD_NODES.mat
+│   │   └── QBI_brain_new_Rocchi_Template.nii.gz
+│   ├── Cluster_statistics/
+│   │   ├── GFP_masked_cluster_1.xlsx
+│   │   ├── GFP_masked_cluster_2.xlsx
+│   │   ├── GFP_masked_cluster_3.xlsx
+│   │   ├── GFP_masked_cluster_4.xlsx
+│   │   ├── Gi_masked_cluster_1.xlsx
+│   │   ├── Gi_masked_cluster_2.xlsx
+│   │   ├── Gi_masked_cluster_3.xlsx
+│   │   └── Gi_masked_cluster_4.xlsx
+│   ├── Matrices/
+│   │   ├── GFP_Gi_Inverse TS_SS.png
+│   │   ├── GFP_Gi_Manhattan.png
+│   │   └── GFP_Gi_Pearson Correlation.png
+│   ├── README_cluster_perturbation_analysis.txt
+│   ├── Template/
+│   │   ├── ROI_List_Allen_213_to_165_original.xlsx
+│   │   └── mask_Oh_V3_r_QBI_new_Rocchi_Template.nii.gz
+│   ├── Zmaps_comparison/
+│   │   ├── Plots/
+│   │   │   ├── Cluster_2_pfc_no_ss_stim.png
+│   │   │   └── Cluster_2_pfc_ss_stim.png
+│   │   ├── comparison-cluster-1-GFP_masked-Gi_masked.xlsx
+│   │   ├── comparison-cluster-2-GFP_masked-Gi_masked.xlsx
+│   │   ├── comparison-cluster-3-GFP_masked-Gi_masked.xlsx
+│   │   └── comparison-cluster-4-GFP_masked-Gi_masked.xlsx
+│   ├── __pycache__/
+│   │   └── parcellation_module_ts_ss.cpython-38.pyc
+│   ├── clusters_comparison_per_region.py
+│   ├── clusters_individual_statistics.py
+│   ├── diagram_plot.py
+│   ├── matrices_plot.py
+│   ├── parcellation_module_ts_ss.py
+│   ├── zmaps_calculation.py
+│   ├── zmaps_compute.sh
+│   ├── zmaps_sorted_per_cluster.pkl
+│   └── zmaps_sorted_per_condition.pkl
+├── Clustering/
+│   ├── Anatomy/
+│   │   ├── 2_solution/
+│   │   │   ├── 2-solution ACAd-region.png
+│   │   │   ├── 2-solution ACAv-region.png
+│   │   │   ├── 2-solution ILA-region.png
+│   │   │   ├── 2-solution ORBL-region.png
+│   │   │   ├── 2-solution ORBm-region.png
+│   │   │   ├── 2-solution ORBvl-region.png
+│   │   │   └── 2-solution PL-region.png
+│   │   ├── 3_solution/
+│   │   │   ├── 3-solution ACAd-region.png
+│   │   │   ├── 3-solution ACAv-region.png
+│   │   │   ├── 3-solution ILA-region.png
+│   │   │   ├── 3-solution ORBL-region.png
+│   │   │   ├── 3-solution ORBm-region.png
+│   │   │   ├── 3-solution ORBvl-region.png
+│   │   │   └── 3-solution PL-region.png
+│   │   ├── 4_solution/
+│   │   │   ├── 4-solution ACAd-region.png
+│   │   │   ├── 4-solution ACAv-region.png
+│   │   │   ├── 4-solution ILA-region.png
+│   │   │   ├── 4-solution ORBL-region.png
+│   │   │   ├── 4-solution ORBm-region.png
+│   │   │   ├── 4-solution ORBvl-region.png
+│   │   │   └── 4-solution PL-region.png
+│   │   ├── 5_solution/
+│   │   │   ├── 5-solution ACAd-region.png
+│   │   │   ├── 5-solution ACAv-region.png
+│   │   │   ├── 5-solution ILA-region.png
+│   │   │   ├── 5-solution ORBL-region.png
+│   │   │   ├── 5-solution ORBm-region.png
+│   │   │   ├── 5-solution ORBvl-region.png
+│   │   │   └── 5-solution PL-region.png
+│   │   ├── 6_solution/
+│   │   │   ├── 6-solution ACAd-region.png
+│   │   │   ├── 6-solution ACAv-region.png
+│   │   │   ├── 6-solution ILA-region.png
+│   │   │   ├── 6-solution ORBL-region.png
+│   │   │   ├── 6-solution ORBm-region.png
+│   │   │   ├── 6-solution ORBvl-region.png
+│   │   │   └── 6-solution PL-region.png
+│   │   └── 7_solution/
+│   │       ├── 7-solution ACAd-region.png
+│   │       ├── 7-solution ACAv-region.png
+│   │       ├── 7-solution ILA-region.png
+│   │       ├── 7-solution ORBL-region.png
+│   │       ├── 7-solution ORBm-region.png
+│   │       ├── 7-solution ORBvl-region.png
+│   │       └── 7-solution PL-region.png
+│   ├── Clusters_Nifti/
+│   │   ├── all_conditions_manuscript/
+│   │   │   ├── Hierarchical/
+│   │   │   │   ├── pfc-all_100_Hierarchical/
+│   │   │   │   │   ├── pfc-all_100_Hierarchical-10.nii.gz
+│   │   │   │   │   ├── pfc-all_100_Hierarchical-2.nii.gz
+│   │   │   │   │   ├── pfc-all_100_Hierarchical-3.nii.gz
+│   │   │   │   │   ├── pfc-all_100_Hierarchical-4.nii.gz
+│   │   │   │   │   ├── pfc-all_100_Hierarchical-5.nii.gz
+│   │   │   │   │   ├── pfc-all_100_Hierarchical-6.nii.gz
+│   │   │   │   │   ├── pfc-all_100_Hierarchical-7.nii.gz
+│   │   │   │   │   ├── pfc-all_100_Hierarchical-8.nii.gz
+│   │   │   │   │   └── pfc-all_100_Hierarchical-9.nii.gz
+│   │   │   │   └── pfc-pfc_100_Hierarchical/
+│   │   │   │       ├── pfc-pfc_100_Hierarchical-10.nii.gz
+│   │   │   │       ├── pfc-pfc_100_Hierarchical-2.nii.gz
+│   │   │   │       ├── pfc-pfc_100_Hierarchical-3.nii.gz
+│   │   │   │       ├── pfc-pfc_100_Hierarchical-4.nii.gz
+│   │   │   │       ├── pfc-pfc_100_Hierarchical-5.nii.gz
+│   │   │   │       ├── pfc-pfc_100_Hierarchical-6.nii.gz
+│   │   │   │       ├── pfc-pfc_100_Hierarchical-7.nii.gz
+│   │   │   │       ├── pfc-pfc_100_Hierarchical-8.nii.gz
+│   │   │   │       └── pfc-pfc_100_Hierarchical-9.nii.gz
+│   │   │   ├── Underlay_QBI.nii.gz
+│   │   │   ├── gmm/
+│   │   │   │   ├── pfc-all_100_gmm/
+│   │   │   │   │   ├── pfc-all_100_gmm-10.nii.gz
+│   │   │   │   │   ├── pfc-all_100_gmm-2.nii.gz
+│   │   │   │   │   ├── pfc-all_100_gmm-3.nii.gz
+│   │   │   │   │   ├── pfc-all_100_gmm-4.nii.gz
+│   │   │   │   │   ├── pfc-all_100_gmm-5.nii.gz
+│   │   │   │   │   ├── pfc-all_100_gmm-6.nii.gz
+│   │   │   │   │   ├── pfc-all_100_gmm-7.nii.gz
+│   │   │   │   │   ├── pfc-all_100_gmm-8.nii.gz
+│   │   │   │   │   └── pfc-all_100_gmm-9.nii.gz
+│   │   │   │   └── pfc-pfc_100_gmm/
+│   │   │   │       ├── Underlay_QBI.nii.gz
+│   │   │   │       ├── pfc-pfc_100_gmm-10.nii.gz
+│   │   │   │       ├── pfc-pfc_100_gmm-2.nii.gz
+│   │   │   │       ├── pfc-pfc_100_gmm-3.nii.gz
+│   │   │   │       ├── pfc-pfc_100_gmm-4.nii.gz
+│   │   │   │       ├── pfc-pfc_100_gmm-5.nii.gz
+│   │   │   │       ├── pfc-pfc_100_gmm-6.nii.gz
+│   │   │   │       ├── pfc-pfc_100_gmm-7.nii.gz
+│   │   │   │       ├── pfc-pfc_100_gmm-8.nii.gz
+│   │   │   │       └── pfc-pfc_100_gmm-9.nii.gz
+│   │   │   └── kmeans/
+│   │   │       ├── pfc-all_100_kmeans/
+│   │   │       │   ├── pfc-all_100_kmeans-10.nii.gz
+│   │   │       │   ├── pfc-all_100_kmeans-2.nii.gz
+│   │   │       │   ├── pfc-all_100_kmeans-3.nii.gz
+│   │   │       │   ├── pfc-all_100_kmeans-4.nii.gz
+│   │   │       │   ├── pfc-all_100_kmeans-5.nii.gz
+│   │   │       │   ├── pfc-all_100_kmeans-6.nii.gz
+│   │   │       │   ├── pfc-all_100_kmeans-7.nii.gz
+│   │   │       │   ├── pfc-all_100_kmeans-8.nii.gz
+│   │   │       │   └── pfc-all_100_kmeans-9.nii.gz
+│   │   │       ├── pfc-all_20_kmeans/
+│   │   │       │   ├── pfc-all_20_kmeans-10.nii.gz
+│   │   │       │   ├── pfc-all_20_kmeans-2.nii.gz
+│   │   │       │   ├── pfc-all_20_kmeans-3.nii.gz
+│   │   │       │   ├── pfc-all_20_kmeans-4.nii.gz
+│   │   │       │   ├── pfc-all_20_kmeans-5.nii.gz
+│   │   │       │   ├── pfc-all_20_kmeans-6.nii.gz
+│   │   │       │   ├── pfc-all_20_kmeans-7.nii.gz
+│   │   │       │   ├── pfc-all_20_kmeans-8.nii.gz
+│   │   │       │   └── pfc-all_20_kmeans-9.nii.gz
+│   │   │       ├── pfc-all_40_kmeans/
+│   │   │       │   ├── pfc-all_40_kmeans-10.nii.gz
+│   │   │       │   ├── pfc-all_40_kmeans-2.nii.gz
+│   │   │       │   ├── pfc-all_40_kmeans-3.nii.gz
+│   │   │       │   ├── pfc-all_40_kmeans-4.nii.gz
+│   │   │       │   ├── pfc-all_40_kmeans-5.nii.gz
+│   │   │       │   ├── pfc-all_40_kmeans-6.nii.gz
+│   │   │       │   ├── pfc-all_40_kmeans-7.nii.gz
+│   │   │       │   ├── pfc-all_40_kmeans-8.nii.gz
+│   │   │       │   └── pfc-all_40_kmeans-9.nii.gz
+│   │   │       ├── pfc-all_60_kmeans/
+│   │   │       │   ├── pfc-all_60_kmeans-10.nii.gz
+│   │   │       │   ├── pfc-all_60_kmeans-2.nii.gz
+│   │   │       │   ├── pfc-all_60_kmeans-3.nii.gz
+│   │   │       │   ├── pfc-all_60_kmeans-4.nii.gz
+│   │   │       │   ├── pfc-all_60_kmeans-5.nii.gz
+│   │   │       │   ├── pfc-all_60_kmeans-6.nii.gz
+│   │   │       │   ├── pfc-all_60_kmeans-7.nii.gz
+│   │   │       │   ├── pfc-all_60_kmeans-8.nii.gz
+│   │   │       │   └── pfc-all_60_kmeans-9.nii.gz
+│   │   │       ├── pfc-all_80_kmeans/
+│   │   │       │   ├── pfc-all_80_kmeans-10.nii.gz
+│   │   │       │   ├── pfc-all_80_kmeans-2.nii.gz
+│   │   │       │   ├── pfc-all_80_kmeans-3.nii.gz
+│   │   │       │   ├── pfc-all_80_kmeans-4.nii.gz
+│   │   │       │   ├── pfc-all_80_kmeans-5.nii.gz
+│   │   │       │   ├── pfc-all_80_kmeans-6.nii.gz
+│   │   │       │   ├── pfc-all_80_kmeans-7.nii.gz
+│   │   │       │   ├── pfc-all_80_kmeans-8.nii.gz
+│   │   │       │   └── pfc-all_80_kmeans-9.nii.gz
+│   │   │       ├── pfc-nopfc_100_kmeans/
+│   │   │       │   ├── pfc-nopfc_100_kmeans-10.nii.gz
+│   │   │       │   ├── pfc-nopfc_100_kmeans-2.nii.gz
+│   │   │       │   ├── pfc-nopfc_100_kmeans-3.nii.gz
+│   │   │       │   ├── pfc-nopfc_100_kmeans-4.nii.gz
+│   │   │       │   ├── pfc-nopfc_100_kmeans-5.nii.gz
+│   │   │       │   ├── pfc-nopfc_100_kmeans-6.nii.gz
+│   │   │       │   ├── pfc-nopfc_100_kmeans-7.nii.gz
+│   │   │       │   ├── pfc-nopfc_100_kmeans-8.nii.gz
+│   │   │       │   └── pfc-nopfc_100_kmeans-9.nii.gz
+│   │   │       ├── pfc-nopfc_20_kmeans/
+│   │   │       │   ├── pfc-nopfc_20_kmeans-10.nii.gz
+│   │   │       │   ├── pfc-nopfc_20_kmeans-2.nii.gz
+│   │   │       │   ├── pfc-nopfc_20_kmeans-3.nii.gz
+│   │   │       │   ├── pfc-nopfc_20_kmeans-4.nii.gz
+│   │   │       │   ├── pfc-nopfc_20_kmeans-5.nii.gz
+│   │   │       │   ├── pfc-nopfc_20_kmeans-6.nii.gz
+│   │   │       │   ├── pfc-nopfc_20_kmeans-7.nii.gz
+│   │   │       │   ├── pfc-nopfc_20_kmeans-8.nii.gz
+│   │   │       │   └── pfc-nopfc_20_kmeans-9.nii.gz
+│   │   │       ├── pfc-nopfc_40_kmeans/
+│   │   │       │   ├── pfc-nopfc_40_kmeans-10.nii.gz
+│   │   │       │   ├── pfc-nopfc_40_kmeans-2.nii.gz
+│   │   │       │   ├── pfc-nopfc_40_kmeans-3.nii.gz
+│   │   │       │   ├── pfc-nopfc_40_kmeans-4.nii.gz
+│   │   │       │   ├── pfc-nopfc_40_kmeans-5.nii.gz
+│   │   │       │   ├── pfc-nopfc_40_kmeans-6.nii.gz
+│   │   │       │   ├── pfc-nopfc_40_kmeans-7.nii.gz
+│   │   │       │   ├── pfc-nopfc_40_kmeans-8.nii.gz
+│   │   │       │   └── pfc-nopfc_40_kmeans-9.nii.gz
+│   │   │       ├── pfc-nopfc_60_kmeans/
+│   │   │       │   ├── pfc-nopfc_60_kmeans-10.nii.gz
+│   │   │       │   ├── pfc-nopfc_60_kmeans-2.nii.gz
+│   │   │       │   ├── pfc-nopfc_60_kmeans-3.nii.gz
+│   │   │       │   ├── pfc-nopfc_60_kmeans-4.nii.gz
+│   │   │       │   ├── pfc-nopfc_60_kmeans-5.nii.gz
+│   │   │       │   ├── pfc-nopfc_60_kmeans-6.nii.gz
+│   │   │       │   ├── pfc-nopfc_60_kmeans-7.nii.gz
+│   │   │       │   ├── pfc-nopfc_60_kmeans-8.nii.gz
+│   │   │       │   └── pfc-nopfc_60_kmeans-9.nii.gz
+│   │   │       ├── pfc-nopfc_80_kmeans/
+│   │   │       │   ├── pfc-nopfc_80_kmeans-10.nii.gz
+│   │   │       │   ├── pfc-nopfc_80_kmeans-2.nii.gz
+│   │   │       │   ├── pfc-nopfc_80_kmeans-3.nii.gz
+│   │   │       │   ├── pfc-nopfc_80_kmeans-4.nii.gz
+│   │   │       │   ├── pfc-nopfc_80_kmeans-5.nii.gz
+│   │   │       │   ├── pfc-nopfc_80_kmeans-6.nii.gz
+│   │   │       │   ├── pfc-nopfc_80_kmeans-7.nii.gz
+│   │   │       │   ├── pfc-nopfc_80_kmeans-8.nii.gz
+│   │   │       │   └── pfc-nopfc_80_kmeans-9.nii.gz
+│   │   │       ├── pfc-pfc_100_kmeans/
+│   │   │       │   ├── pfc-pfc_100_kmeans-10.nii.gz
+│   │   │       │   ├── pfc-pfc_100_kmeans-2.nii.gz
+│   │   │       │   ├── pfc-pfc_100_kmeans-3.nii.gz
+│   │   │       │   ├── pfc-pfc_100_kmeans-4.nii.gz
+│   │   │       │   ├── pfc-pfc_100_kmeans-5.nii.gz
+│   │   │       │   ├── pfc-pfc_100_kmeans-6.nii.gz
+│   │   │       │   ├── pfc-pfc_100_kmeans-7.nii.gz
+│   │   │       │   ├── pfc-pfc_100_kmeans-8.nii.gz
+│   │   │       │   └── pfc-pfc_100_kmeans-9.nii.gz
+│   │   │       ├── pfc-pfc_20_gmm/
+│   │   │       │   ├── pfc-pfc_20_gmm-10.nii.gz
+│   │   │       │   ├── pfc-pfc_20_gmm-2.nii.gz
+│   │   │       │   ├── pfc-pfc_20_gmm-3.nii.gz
+│   │   │       │   ├── pfc-pfc_20_gmm-4.nii.gz
+│   │   │       │   ├── pfc-pfc_20_gmm-5.nii.gz
+│   │   │       │   ├── pfc-pfc_20_gmm-6.nii.gz
+│   │   │       │   ├── pfc-pfc_20_gmm-7.nii.gz
+│   │   │       │   ├── pfc-pfc_20_gmm-8.nii.gz
+│   │   │       │   └── pfc-pfc_20_gmm-9.nii.gz
+│   │   │       ├── pfc-pfc_20_kmeans/
+│   │   │       │   ├── pfc-pfc_20_kmeans-10.nii.gz
+│   │   │       │   ├── pfc-pfc_20_kmeans-2.nii.gz
+│   │   │       │   ├── pfc-pfc_20_kmeans-3.nii.gz
+│   │   │       │   ├── pfc-pfc_20_kmeans-4.nii.gz
+│   │   │       │   ├── pfc-pfc_20_kmeans-5.nii.gz
+│   │   │       │   ├── pfc-pfc_20_kmeans-6.nii.gz
+│   │   │       │   ├── pfc-pfc_20_kmeans-7.nii.gz
+│   │   │       │   ├── pfc-pfc_20_kmeans-8.nii.gz
+│   │   │       │   └── pfc-pfc_20_kmeans-9.nii.gz
+│   │   │       ├── pfc-pfc_40_kmeans/
+│   │   │       │   ├── pfc-pfc_40_kmeans-10.nii.gz
+│   │   │       │   ├── pfc-pfc_40_kmeans-2.nii.gz
+│   │   │       │   ├── pfc-pfc_40_kmeans-3.nii.gz
+│   │   │       │   ├── pfc-pfc_40_kmeans-4.nii.gz
+│   │   │       │   ├── pfc-pfc_40_kmeans-5.nii.gz
+│   │   │       │   ├── pfc-pfc_40_kmeans-6.nii.gz
+│   │   │       │   ├── pfc-pfc_40_kmeans-7.nii.gz
+│   │   │       │   ├── pfc-pfc_40_kmeans-8.nii.gz
+│   │   │       │   └── pfc-pfc_40_kmeans-9.nii.gz
+│   │   │       ├── pfc-pfc_60_kmeans/
+│   │   │       │   ├── pfc-pfc_60_kmeans-10.nii.gz
+│   │   │       │   ├── pfc-pfc_60_kmeans-2.nii.gz
+│   │   │       │   ├── pfc-pfc_60_kmeans-3.nii.gz
+│   │   │       │   ├── pfc-pfc_60_kmeans-4.nii.gz
+│   │   │       │   ├── pfc-pfc_60_kmeans-5.nii.gz
+│   │   │       │   ├── pfc-pfc_60_kmeans-6.nii.gz
+│   │   │       │   ├── pfc-pfc_60_kmeans-7.nii.gz
+│   │   │       │   ├── pfc-pfc_60_kmeans-8.nii.gz
+│   │   │       │   └── pfc-pfc_60_kmeans-9.nii.gz
+│   │   │       └── pfc-pfc_80_kmeans/
+│   │   │           ├── pfc-pfc_80_kmeans-10.nii.gz
+│   │   │           ├── pfc-pfc_80_kmeans-2.nii.gz
+│   │   │           ├── pfc-pfc_80_kmeans-3.nii.gz
+│   │   │           ├── pfc-pfc_80_kmeans-4.nii.gz
+│   │   │           ├── pfc-pfc_80_kmeans-5.nii.gz
+│   │   │           ├── pfc-pfc_80_kmeans-6.nii.gz
+│   │   │           ├── pfc-pfc_80_kmeans-7.nii.gz
+│   │   │           ├── pfc-pfc_80_kmeans-8.nii.gz
+│   │   │           └── pfc-pfc_80_kmeans-9.nii.gz
+│   │   └── pfc-pfc_60_kmeans/
+│   │       ├── pfc-pfc_60_kmeans-2.nii.gz
+│   │       ├── pfc-pfc_60_kmeans-3.nii.gz
+│   │       ├── pfc-pfc_60_kmeans-4.nii.gz
+│   │       ├── pfc-pfc_60_kmeans-5.nii.gz
+│   │       ├── pfc-pfc_60_kmeans-6.nii.gz
+│   │       └── pfc-pfc_60_kmeans-7.nii.gz
+│   ├── Correlation-matrix/
+│   │   └── 1_pfc-pfc.npy
+│   ├── Data/
+│   │   └── 001_FIXed_QBI.nii.gz
+│   ├── Euler_correlation_combined.py
+│   ├── Euler_correlation_combined.sh
+│   ├── Iteration/
+│   │   └── kmeans/
+│   │       ├── pfc-all/
+│   │       │   ├── kmeans_pfc_all_20.npz
+│   │       │   ├── kmeans_pfc_all_40.npz
+│   │       │   ├── kmeans_pfc_all_60.npz
+│   │       │   └── kmeans_pfc_all_80.npz
+│   │       ├── pfc-nopfc/
+│   │       │   ├── kmeans_pfc_nopfc_20.npz
+│   │       │   ├── kmeans_pfc_nopfc_40.npz
+│   │       │   ├── kmeans_pfc_nopfc_60.npz
+│   │       │   └── kmeans_pfc_nopfc_80.npz
+│   │       └── pfc-pfc/
+│   │           ├── kmeans_pfc_pfc_20.npz
+│   │           ├── kmeans_pfc_pfc_40.npz
+│   │           ├── kmeans_pfc_pfc_60.npz
+│   │           └── kmeans_pfc_pfc_80.npz
+│   ├── Masks/
+│   │   ├── QBI_brain.nii.gz
+│   │   ├── QBI_brainwithoutisocortex.nii.gz
+│   │   ├── Underlay_QBI.nii
+│   │   ├── mask_Oh_V3_r_QBI_prefrontal_noinsula.nii.gz
+│   │   └── mask_prefrontal_cortex_noinsula.nii.gz
+│   ├── Mean_correlation_matrix/
+│   │   ├── pfc-all/
+│   │   │   ├── mean_correlation_brain_100.npy
+│   │   │   └── mean_correlation_brain_60.npy
+│   │   └── pfc-pfc/
+│   │       └── mean_correlation_pfc-pfc_60.npy
+│   ├── README-clustering.txt
+│   ├── TSNE_PCA/
+│   │   ├── pfc-all_60_kmeans_cluster_4_2D_TSNE.png
+│   │   ├── pfc-all_60_kmeans_cluster_4_3D_TSNE.png
+│   │   ├── pfc-all_60_kmeans_cluster_4_PCA.png
+│   │   ├── pfc-pfc_60_kmeans_cluster_7_2D_TSNE.png
+│   │   ├── pfc-pfc_60_kmeans_cluster_7_3D_TSNE.png
+│   │   └── pfc-pfc_60_kmeans_cluster_7_PCA.png
+│   ├── TSNE_PCA_plots.py
+│   ├── __pycache__/
+│   │   └── parcellation_module_load.cpython-38.pyc
+│   ├── clusters_anatomy_methods.py
+│   ├── clusters_anatomy_plots.py
+│   ├── correlation_individual.py
+│   ├── correlation_individual.sh
+│   └── parcellation_module_load.py
+├── Histological_evaluation/
+│   ├── README_Histological_evaluation.txt
+│   ├── statistical_analysis/
+│   │   ├── Analysis.xlsx
+│   │   ├── Cluster_1_data/
+│   │   │   ├── ag180719c_1.nii.gz
+│   │   │   ├── ag180720a_1.nii.gz
+│   │   │   ├── ag180720c_1.nii.gz
+│   │   │   ├── ag180723c_1.nii.gz
+│   │   │   ├── ag180724a_1.nii.gz
+│   │   │   ├── ag180724c_1.nii.gz
+│   │   │   ├── ag180724d_1.nii.gz
+│   │   │   ├── ag180725a_1.nii.gz
+│   │   │   ├── ag180726b_1.nii.gz
+│   │   │   ├── ag180727c_1.nii.gz
+│   │   │   ├── ag180727d_1.nii.gz
+│   │   │   ├── ag180730b_1.nii.gz
+│   │   │   ├── ag180730c_1.nii.gz
+│   │   │   ├── ag180731d_1.nii.gz
+│   │   │   └── ag180801b_1.nii.gz
+│   │   ├── Cluster_2_data/
+│   │   │   ├── ag180719c_2.nii.gz
+│   │   │   ├── ag180720a_2.nii.gz
+│   │   │   ├── ag180720c_2.nii.gz
+│   │   │   ├── ag180723c_2.nii.gz
+│   │   │   ├── ag180724a_2.nii.gz
+│   │   │   ├── ag180724c_2.nii.gz
+│   │   │   ├── ag180724d_2.nii.gz
+│   │   │   ├── ag180725a_2.nii.gz
+│   │   │   ├── ag180726b_2.nii.gz
+│   │   │   ├── ag180727c_2.nii.gz
+│   │   │   ├── ag180727d_2.nii.gz
+│   │   │   ├── ag180730b_2.nii.gz
+│   │   │   ├── ag180730c_2.nii.gz
+│   │   │   ├── ag180731d_2.nii.gz
+│   │   │   └── ag180801b_2.nii.gz
+│   │   ├── Cluster_3_data/
+│   │   │   ├── ag180719c_3.nii.gz
+│   │   │   ├── ag180720a_3.nii.gz
+│   │   │   ├── ag180720c_3.nii.gz
+│   │   │   ├── ag180723c_3.nii.gz
+│   │   │   ├── ag180724a_3.nii.gz
+│   │   │   ├── ag180724c_3.nii.gz
+│   │   │   ├── ag180724d_3.nii.gz
+│   │   │   ├── ag180725a_3.nii.gz
+│   │   │   ├── ag180726b_3.nii.gz
+│   │   │   ├── ag180727c_3.nii.gz
+│   │   │   ├── ag180727d_3.nii.gz
+│   │   │   ├── ag180730b_3.nii.gz
+│   │   │   ├── ag180730c_3.nii.gz
+│   │   │   ├── ag180731d_3.nii.gz
+│   │   │   └── ag180801b_3.nii.gz
+│   │   ├── Cluster_4_data/
+│   │   │   ├── ag180719c_4.nii.gz
+│   │   │   ├── ag180720a_4.nii.gz
+│   │   │   ├── ag180720c_4.nii.gz
+│   │   │   ├── ag180723c_4.nii.gz
+│   │   │   ├── ag180724a_4.nii.gz
+│   │   │   ├── ag180724c_4.nii.gz
+│   │   │   ├── ag180724d_4.nii.gz
+│   │   │   ├── ag180725a_4.nii.gz
+│   │   │   ├── ag180726b_4.nii.gz
+│   │   │   ├── ag180727c_4.nii.gz
+│   │   │   ├── ag180727d_4.nii.gz
+│   │   │   ├── ag180730b_4.nii.gz
+│   │   │   ├── ag180730c_4.nii.gz
+│   │   │   ├── ag180731d_4.nii.gz
+│   │   │   └── ag180801b_4.nii.gz
+│   │   ├── Fig3A_data_violin.csv
+│   │   ├── Statistics_loop.sh
+│   │   ├── Violin_plot.py
+│   │   ├── voxel_counts_1.csv
+│   │   ├── voxel_counts_2.csv
+│   │   ├── voxel_counts_3.csv
+│   │   ├── voxel_counts_4.csv
+│   │   └── ~$Analysis.xlsx
+│   └── visualization/
+│       ├── Combined_cluster_masks/
+│       │   └── KMEANS-4-QBI_r_ref.nii.gz
+│       ├── Individual_cluster_masks/
+│       │   ├── KMEANS-4-QBI_r_ref_1.nii.gz
+│       │   ├── KMEANS-4-QBI_r_ref_2.nii.gz
+│       │   ├── KMEANS-4-QBI_r_ref_3.nii.gz
+│       │   └── KMEANS-4-QBI_r_ref_4.nii.gz
+│       ├── Reference_image/
+│       │   └── reference_template_70um_sk.nii.gz
+│       └── Summed_image/
+│           └── summed_image.nii.gz
+└── dir_tree.py
